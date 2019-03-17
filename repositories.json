@@ -1,0 +1,16 @@
+{
+  "repositories": [
+    {
+      "name": "demoapp",
+      "url": "https://github.com/oufti-playground/demoapp",
+      "visibility": "public",
+      "webhook_url": "none"
+    },
+    {
+      "name": "pipeline-libraries",
+      "url": "https://github.com/oufti-playground/pipeline-libraries",
+      "visibility": "public",
+      "webhook_url": "none"
+    }
+  ]
+}
